@@ -30,4 +30,3 @@ class TransactionHistory {
         TransactionHistory t = new TransactionHistory("1001", "Akash","Vaishnavi",1500000.0,"successfull","01-04-2024");
         t.displayCustomerInfo();
     }}
-}
